@@ -11,11 +11,10 @@ This project demonstrates how to deploy an Nginx web server on an EC2 instance u
 ## 📁 Project Structure
 
 terraform-nginx-ubuntu/ 
-├── main.tf       # This is the main Terraform configuration file. It defines the resources needed for deploying the EC2 instance and security group.
-├── variables.tf  # This file contains the variables used in the `main.tf` file. For example, the AMI ID, instance type, and key name can be defined here.
-├── outputs.tf    # Defines the outputs of the Terraform deployment, such as the public IP of the created EC2 instance.
-├── README.md     #The file you are currently reading, which explains the steps involved in deploying the EC2 instance with Terraform.
-
+├── main.tf        # Main Terraform configuration file. Defines EC2 instance and security group.
+├── variables.tf   # Declares input variables like AMI ID, instance type, and key name.
+├── outputs.tf     # Specifies outputs like the public IP of the EC2 instance.
+├── README.md      # Documentation file with setup and deployment instructions.
 
 
 ## Terraform Configuration Details
