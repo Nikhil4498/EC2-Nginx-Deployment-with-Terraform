@@ -105,7 +105,7 @@ terraform-nginx-ubuntu/
 
       terraform init
 
-      ![image](https://github.com/user-attachments/assets/4c073297-02da-49f4-8615-ec804019a44b)
+  ![image](https://github.com/user-attachments/assets/4c073297-02da-49f4-8615-ec804019a44b)
 
       
 (ii) Plan the Deployment:
@@ -121,13 +121,13 @@ terraform-nginx-ubuntu/
       
     ## Type 'yes' when prompted
 
-    ![image](https://github.com/user-attachments/assets/b9f7f4a9-189a-4edd-a144-ac43c57af276)
+  ![image](https://github.com/user-attachments/assets/b9f7f4a9-189a-4edd-a144-ac43c57af276)
 
-    ![image](https://github.com/user-attachments/assets/53ef36af-9816-46bb-822f-06902d2f1768)
+  ![image](https://github.com/user-attachments/assets/53ef36af-9816-46bb-822f-06902d2f1768)
 
-    ![image](https://github.com/user-attachments/assets/5665966b-9a24-4179-be0a-8caa2b19ad89)
+  ![image](https://github.com/user-attachments/assets/5665966b-9a24-4179-be0a-8caa2b19ad89)
 
-    ![image](https://github.com/user-attachments/assets/b6bc556d-4cd5-4b44-a485-ddaaec91f8ad)
+  ![image](https://github.com/user-attachments/assets/b6bc556d-4cd5-4b44-a485-ddaaec91f8ad)
 
 
 (iv) Get the Public IP:
@@ -139,22 +139,22 @@ terraform-nginx-ubuntu/
         Navigate to http://<instance_public_ip>
         Example: http://44.212.33.180
 
-        ![image](https://github.com/user-attachments/assets/0959a251-860b-4d0a-b364-4ee42a80726e)
+  ![image](https://github.com/user-attachments/assets/0959a251-860b-4d0a-b364-4ee42a80726e)
 
-        ![image](https://github.com/user-attachments/assets/3ffc17af-5212-41e1-8f40-ab1e57f0a250)
+  ![image](https://github.com/user-attachments/assets/3ffc17af-5212-41e1-8f40-ab1e57f0a250)
 
-        ![image](https://github.com/user-attachments/assets/1bf3b4af-bd82-44cd-88e5-1e33eab06938)
+  ![image](https://github.com/user-attachments/assets/1bf3b4af-bd82-44cd-88e5-1e33eab06938)
 
-        ![image](https://github.com/user-attachments/assets/d86c4e2b-2c48-4213-b40e-666e656417c7)
+  ![image](https://github.com/user-attachments/assets/d86c4e2b-2c48-4213-b40e-666e656417c7)
 
 
 (v) To destroy all resources:
 
     terraform destroy
 
-    ![image](https://github.com/user-attachments/assets/88debb45-30d1-4e58-81d8-086ebb987f0b)
+  ![image](https://github.com/user-attachments/assets/88debb45-30d1-4e58-81d8-086ebb987f0b)
 
-    ![image](https://github.com/user-attachments/assets/463e784c-e2d2-4889-a0b6-808b57cce657)
+  ![image](https://github.com/user-attachments/assets/463e784c-e2d2-4889-a0b6-808b57cce657)
 
 ## .gitignore (Important for Security):
 
