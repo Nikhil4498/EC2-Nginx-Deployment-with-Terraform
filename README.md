@@ -112,7 +112,7 @@ terraform-nginx-ubuntu/
 
       terraform plan
 
-      ![image](https://github.com/user-attachments/assets/855527e3-3657-413c-87a8-596133646803)
+[image](https://github.com/user-attachments/assets/855527e3-3657-413c-87a8-596133646803)
 
       
 (iii) Apply the Configuration:
