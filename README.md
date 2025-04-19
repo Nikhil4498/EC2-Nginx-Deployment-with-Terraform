@@ -9,14 +9,14 @@ This project demonstrates how to deploy an Nginx web server on an EC2 instance u
 - Public IP output to access the deployed web server
 
 ## 📁 Project Structure
-
+---
 terraform-nginx-ubuntu/ 
 ├── main.tf        # Main Terraform configuration file. Defines EC2 instance and security group.
 ├── variables.tf   # Declares input variables like AMI ID, instance type, and key name.
 ├── outputs.tf     # Specifies outputs like the public IP of the EC2 instance.
 ├── README.md      # Documentation file with setup and deployment instructions.
 
-
+---
 ## Terraform Configuration Details
 
 
